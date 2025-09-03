@@ -16,6 +16,7 @@
 <details align="center">
   <summary>Other statistics</summary>
   <h3>Github</h3>
+  <div align="center">
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronwittchen&theme=aura" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronwittchen&theme=aura" />
@@ -24,4 +25,5 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronwittchen&theme=aura" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaronwittchen&theme=aura&utcOffset=1" />
   </p>
+    </div>
 </details>
