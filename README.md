@@ -1,4 +1,6 @@
-## Hi, I'm Aaron 👋
+<div align="center">
+  <h1>Hi, I'm Aaron 👋</h1>
+</div>
 
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" />
@@ -13,6 +15,6 @@
   </p>
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronwittchen&theme=aura" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaronwittchen&theme=aura&utcOffset=8" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaronwittchen&theme=aura&utcOffset=1" />
   </p>
 </details>
