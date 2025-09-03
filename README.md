@@ -2,6 +2,13 @@
   <h1>Hi, I'm Aaron 👋</h1>
 </div>
 
+<div align="center">
+  <a href="https://vueuse.org"
+    ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vue_js.png" alt="Vue.js" title="Vue.js"/></a>
+  <a href="https://www.typescriptlang.org"
+    ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a>
+</div>
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" />
 </p>
