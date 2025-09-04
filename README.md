@@ -37,3 +37,7 @@
   </p>
     </div>
 </details>
+
+# 📊 My Stats
+[![aaronwittchen's github stats](https://github-readme-stats.vercel.app/api?username=aaronwittchen&show_icons=true&count_private=true&theme=aura&hide=stars)](https://aaronwittchen/github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aaronwittchen&theme=dark&count_private=true&theme=aura)](https://aaronwittchen/github)
