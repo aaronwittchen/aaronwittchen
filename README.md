@@ -9,6 +9,12 @@
     ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a>
 </div>
 
+# 🧑‍💻 My open source repos
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Sorting-Visualization-Tool&theme=aura)](https://github.com/aaronwittchen/Sorting-Visualization-Tool)
+
+
+
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" />
 </p>
