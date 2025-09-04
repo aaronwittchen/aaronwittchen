@@ -19,14 +19,14 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Stock-Tracker&theme=aura)](https://github.com/aaronwittchen/Stock-Tracker)
 
 
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" />
 </p>
 
-<details align="center">
+<details align="left">
   <summary>Other statistics</summary>
   <h3>Github</h3>
-  <div align="center">
+  <div align="left">
   <p>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronwittchen&theme=aura" />
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronwittchen&theme=aura" />
