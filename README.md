@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Aaron 👋</h1>
 <h3 align="center">A passionate Software Engineer from Germany</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/aaron-wittchen/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aaronwittchen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+</p>
+
 <!--
 <div align="center">
   <a href="https://vueuse.org"
