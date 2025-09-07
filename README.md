@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Hi, I'm Aaron 👋</h1>
-</div>
+<h1 align="center">Hi, I'm Aaron 👋</h1>
+<h3 align="center">A passionate Software Engineer from Germany</h3>
 
 <div align="center">
   <a href="https://vueuse.org"
@@ -18,7 +17,19 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Ticket-Buying-System&theme=aura)](https://github.com/aaronwittchen/Ticket-Buying-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Stock-Tracker&theme=aura)](https://github.com/aaronwittchen/Stock-Tracker)
 
+<div align="center">
+<a href="https://github.com/aaronwittchen">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aaronwittchen&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aaronwittchen&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aaronwittchen&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aaronwittchen&theme=aura" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" height="180em" />
+</div>
 
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronwittchen&" alt="aaronwittchen" /></p>
+
+
+<!--
 <p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" />
 </p>
@@ -37,6 +48,7 @@
   </p>
     </div>
 </details>
+--!>
 
 <!--
 # 📊 My Stats
