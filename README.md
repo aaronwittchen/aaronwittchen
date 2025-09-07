@@ -26,8 +26,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aaronwittchen&theme=aura" height="180em" />
 </div>
 
-<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronwittchen&" alt="aaronwittchen" /></p>
-
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronwittchen&theme=dark" alt="aaronwittchen" /></p>
 
 <!--
 <p align="left">
