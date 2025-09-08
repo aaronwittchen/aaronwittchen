@@ -109,7 +109,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=NeoWs-Tracking-Application&theme=aura)](https://github.com/aaronwittchen/NeoWs-Tracking-Application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=MERN-JWT-Auth&theme=aura)](https://github.com/aaronwittchen/MERN-JWT-Auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Invoicipedia&theme=aura)](https://github.com/aaronwittchen/Invoicipedia)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Ticket-Buying-System&theme=aura)](https://github.com/aaronwittchen/Ticket-Buying-System)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Ticket-Booking-System&theme=aura)](https://github.com/aaronwittchen/Ticket-Booking-System)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Stock-Tracker&theme=aura)](https://github.com/aaronwittchen/Stock-Tracker)
 
 <div align="center">
