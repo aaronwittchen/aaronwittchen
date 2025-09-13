@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Aaron 👋</h1>
-<h3 align="center">A passionate Software Engineer from Germany</h3>
+<h3 style="text-align: center;">
+  A passionate Software Engineer from Germany, focusing on Java Backend Development
+</h3>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-wittchen/" target="_blank">
