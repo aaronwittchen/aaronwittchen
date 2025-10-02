@@ -80,13 +80,6 @@
   <a><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" style="filter: invert(100%);"/></a>
 </p>
 
-<h3 align="left">IDEs and Editors</h3>
-<p align="left">
-  <a><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" title="Visual Studio Code"/></a>
-  <a><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" title="IntelliJ IDEA"/></a>
-  <a><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" title="Eclipse"/></a>
-</p>
-
 <h3 align="left">Tools</h3>
 <p align="left">
   <a><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" title="Docker"/></a>
