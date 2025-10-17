@@ -129,10 +129,6 @@
       <br>Git
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
     </td>
@@ -148,10 +144,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
       <br>Tailwind
     </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
   </tr>
  <tr>
       <td align="center" width="96">
@@ -161,16 +153,6 @@
         <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
-      </td>
-      </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
               <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
       <br>Vue
@@ -193,7 +175,7 @@
 
 # 🧑‍💻 My open source repos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Sorting-Visualization-Tool&theme=aura)](https://github.com/aaronwittchen/Sorting-Visualization-Tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=logistics-platform&theme=aura)](https://github.com/aaronwittchen/logistics-platform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=NeoWs-Tracking-Application&theme=aura)](https://github.com/aaronwittchen/NeoWs-Tracking-Application)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=MERN-JWT-Auth&theme=aura)](https://github.com/aaronwittchen/MERN-JWT-Auth)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Invoicipedia&theme=aura)](https://github.com/aaronwittchen/Invoicipedia)
