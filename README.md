@@ -19,7 +19,7 @@
     ><img width="80" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></a>
 </div>
  -->
- 
+
 <h3 align="left">Programming Languages</h3>
 <p align="left">
   <a><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java"/></a>
@@ -173,7 +173,54 @@
 </table>
 
 
-# 🧑‍💻 My open source repos
+# 🧑‍💻 My Open Source Projects
+
+<!--
+### Logistics Platform
+A **production-grade Domain-Driven Design (DDD) logistics and inventory tracking system**, showcasing enterprise-level software architecture patterns such as **CQRS**, **Event Sourcing**, and **Hexagonal Architecture**.
+
+Built for learning and demonstration purposes — modeling how large-scale logistics platforms (like Amazon or FedEx) structure their backend systems.
+
+**Tech Stack:**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+🔗 [View Repository →](https://github.com/aaronwittchen/logistics-platform)
+
+<details>
+  <summary><b>More Details</b></summary>
+  <br>
+  <p>
+    This platform is composed of multiple bounded contexts (Inventory, Logistics, and Backoffice), each representing a distinct business domain.
+  </p>
+
+  **Key Features:**
+  - Event-driven communication with RabbitMQ for asynchronous workflows  
+  - CQRS architecture separating read/write models for scalability  
+  - Hexagonal structure ensuring testable, framework-independent domain logic  
+  - Comprehensive test suite (150+ tests, 85%+ coverage)  
+  - Production deployment setup with Docker & Kubernetes  
+  - Monitoring via Prometheus + Grafana  
+
+  **Use Cases:**
+  - E-commerce fulfillment  
+  - Warehouse stock management  
+  - Distributed inventory tracking  
+
+  **Learning Focus:**
+  - Applying DDD tactical & strategic design  
+  - Implementing Event Sourcing & Eventual Consistency  
+  - Building microservice-ready backend systems
+
+  *License:* MIT  
+</details>
+-->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=logistics-platform&theme=aura)](https://github.com/aaronwittchen/logistics-platform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=NeoWs-Tracking-Application&theme=aura)](https://github.com/aaronwittchen/NeoWs-Tracking-Application)
