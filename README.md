@@ -221,6 +221,13 @@ Built for learning and demonstration purposes — modeling how large-scale logis
   *License:* MIT  
 </details>
 -->
+### Home Lab & Automation Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=home-server-gitops&theme=aura)](https://github.com/aaronwittchen/home-server-gitops)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Automated-Storage-Provisioning-Tool&theme=aura)](https://github.com/aaronwittchen/Automated-Storage-Provisioning-Tool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=Home-Lab-Network-Simulation&theme=aura)](https://github.com/aaronwittchen/Home-Lab-Network-Simulation)
+
+### Others
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=logistics-platform&theme=aura)](https://github.com/aaronwittchen/logistics-platform)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=NeoWs-Tracking-Application&theme=aura)](https://github.com/aaronwittchen/NeoWs-Tracking-Application)
