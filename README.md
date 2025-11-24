@@ -173,7 +173,7 @@
 </table>
 
 
-# 🧑‍💻 My Open Source Projects
+# My Open Source Projects
 
 <!--
 ### Logistics Platform
@@ -221,6 +221,11 @@ Built for learning and demonstration purposes — modeling how large-scale logis
   *License:* MIT  
 </details>
 -->
+
+### Currently Working On
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=MirrorSync&theme=aura)](https://github.com/aaronwittchen/MirrorSync)
+
 ### Home Lab & Automation Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaronwittchen&repo=home-server-gitops&theme=aura)](https://github.com/aaronwittchen/home-server-gitops)
